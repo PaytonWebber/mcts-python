@@ -1,1 +1,2 @@
 # Monte Carlo Tree Search
+This repository provides an implementation of the Monte Carlo Tree Search (MCTS) algorithm in Python. MCTS is widely used for making decisions in games and other applications where exploring possible future states is essential.
